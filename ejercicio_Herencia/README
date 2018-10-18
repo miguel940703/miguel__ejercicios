@@ -1,0 +1,33 @@
+# miguel__ejercicios
+
+--------------------
+Titulo: Ejercicio de Herencia
+
+Nombre: Miguel Angel Perera Turriza
+
+Correo: mapereraturriza@gmail.com
+
+instrucciones
+
+al ejecutar el programa se le solicitara al usuario ingresar un valor numerico que 
+servira para calcular, el area, perimetro o volumen de un cubo o cuadrado
+al darle enter nos saldra uun segundo menu  en donde apareceran 6 opciones
+** Opcion 1 => Calcular Perimetro Cuadrado
+** Opcion 2 => Calcular Area Cuadrado
+** Opcion 3 => Calcular Volumen Cubo 
+** Opcion 4 => Calcular Perimetro Cubo 
+** Opcion 5 => Ingresar Valor Nuevamente 
+** Opcion 6 => Salir 
+el usuario podra seleccionar cualquier opcion que desee
+al ingresar a cualquiera de las primeras 4 opciones se aran los calculos y les saldran
+el resltado de dicha operacion y unas nuevas opciones mostradas acontinuacion
+1.- Continuar con mismo valor 
+2.- Ingresar nuevo valor 
+3.- Salir 
+en este menu podran seguir con el mismo valor y calcular lasotras opciones area volmen y perimetro 
+sin introducir de nuevo el valor o igual tendran la opcion de ingresar  otro valor y calcularlo con las 
+opciones presentados anteriormente y si se desea terminar puede selecionar la opcion salir ue finaliara el 
+programa
+
+
+
