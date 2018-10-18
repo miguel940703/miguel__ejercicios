@@ -9,7 +9,7 @@ public class P1morse {
         Scanner in = new Scanner(System.in);
         String palabra= "";
         
-        System.out.println("escribe la palabra a convertir en clave morse");
+        System.out.println("escribe la palabra a convertir en clave morse o viceversa");
         palabra=in.nextLine();
         
         if(palabra.indexOf('.')!=-1 || palabra.indexOf('-')!=-1 ){
@@ -65,7 +65,7 @@ public class P1morse {
                morse +=codigo.get(cadenaseparada[i]) + " ";
                
            }
-               System.out.println("Traduccion a español: "+ morse); 
+               System.out.println("Traduccion a espaÃ±ol: "+ morse); 
        
         }
         
